@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "react-virtualized": "latest",
-    "@vercel/fonts": "latest"
+    "@vercel/fonts": "latest",
     "@humeai/voice-react": "latest",
     "framer-motion": "latest",
     "remeda": "latest",
