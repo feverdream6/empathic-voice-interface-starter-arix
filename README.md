@@ -18,7 +18,7 @@ Click the button below to deploy this example project with Vercel:
 Below are the steps to completing deployment:
 
 1. Create a Git Repository for your project.
-2. Provide the required environment variables. To get your lovely API key and Client Secret key, log into the portal and visit the [API keys page](https://beta.hume.ai/settings/keys).
+2. Provide the required environment variables. To get your API key and Client Secret key, log into the portal and visit the [API keys page](https://beta.hume.ai/settings/keys).
 
 ## Support
 
