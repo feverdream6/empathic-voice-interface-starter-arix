@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "react-virtualized": "latest",
+    "@geist/font": "latest",
     "@humeai/voice-react": "latest",
     "framer-motion": "latest",
     "remeda": "latest",
