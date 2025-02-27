@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "react-virtualized": "latest",
-    "@geist/font": "latest",
+    "@geist-ui/font": "latest",
     "@humeai/voice-react": "latest",
     "framer-motion": "latest",
     "remeda": "latest",
